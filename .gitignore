@@ -1,0 +1,8 @@
+metrics/*
+Results/*
+post_processing_scripts/*
+*.pyc
+*.csv
+*.json
+*.jsonl
+.DS_STORE/*
